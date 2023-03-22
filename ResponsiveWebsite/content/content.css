@@ -1,0 +1,22 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.container{
+    max-width: 1888px;
+    margin: auto;
+}
+.info-image{
+
+}
+.flex-wrapper{
+    display: flex;
+}
+.info-wrapper{
+    flex: 1.4;
+    max-width: 543px;
+}
+.image-wrapper{
+   flex: 1;
+}
